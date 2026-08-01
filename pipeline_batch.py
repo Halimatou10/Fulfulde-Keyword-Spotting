@@ -3,7 +3,7 @@ import librosa
 import numpy as np
 
 print("✅ Bibliothèques importées !")
-
+  
 
 # ============================================================
 # 1. CONFIGURATION DES DOSSIERS
