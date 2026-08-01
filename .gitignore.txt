@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Audio files
+*.wav
+*.mp3
+*.mpeg
+
+# Generated features
+*.npy
+
+# Trained models
+*.h5
+*.keras
+*.tflite
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
